@@ -8,7 +8,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
 
-public class EventPractice {
+public class EventTest {
 
     static final int REPEAT_TIME = 50;
 

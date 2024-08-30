@@ -3,7 +3,7 @@ package playwright.event;
 import com.microsoft.playwright.*;
 
 
-public class EventPractice {
+public class EventTest {
 
     static final int REPEAT_TIME = 50;
     static final String XPATH = "xpath=";
